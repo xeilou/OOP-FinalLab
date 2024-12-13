@@ -1,0 +1,12 @@
+Dominic	27	2020-2-20202	torres@hacker.io	09123456789
+John	47	2020-2-00001	cenzon@hacker.org	098945264589
+Louise	19	2024-4-02820	louisemaralit@gmail.com	09758275628
+Kyle	99	2015-1-29572	kyle@gmail.com	09768573957
+Roi	12	2016-2-19247	roi@jaizen.org	09182471927
+Jin	19	2017-2-18475	parco@conchita.edu.ph	09271482569
+Carl	87	2067-6-19275	laylo.antonio@email.com	09125827526
+Mat	76	1028-5-98234	mat@yahoo.com	09123874162
+Jhanella	32	8274-2-38274	jhanella.v@natutulog.net	09182759275
+Kaira	98	9237-1-28573	alexa.flores@school.edu	09837691827
+q	q	q	q	q
+   q	q	q	q	q
