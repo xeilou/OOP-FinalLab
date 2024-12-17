@@ -57,25 +57,7 @@ class Student_Info:
                 email = student_info[3]
                 phone_num = student_info[4]
 
-                # Append a new list
                 self.student_list.append([name, age, id_num, email, phone_num])
             else:
                 print(f"Skipping invalid student data: {student}")
     
-    def show_list(self):
-        student_info_str = ""
-        for student in self.student_list:
-            student_info_str += f"\nName: {student[0]}\nAge: {student[1]}\nID Number: {student[2]}\nEmail Address: {student[3]}\nPhone Number: {student[4]}\n"
-        return student_info_str
-    
-    def student_profile(self, id):    
-        for student in self.student_list:
-            if student[2] == id:
-                return f"\nName: {student[0]}\nAge: {student[1]}\nID Number: {student[2]}\nEmail Address: {student[3]}\nPhone Number: {student[4]}"
-        return f"Student with ID {id} not found."
-    
-    def student_exists(self, id):
-        for student in self.student_list:
-            if student[2] == id:
-                return True
-        return False
